@@ -10,8 +10,8 @@
       "avatar": "https://avatars.githubusercontent.com/u/95485601",
       "egid": 0,
       "role": 0,
-      "salt": "4ccbf244dcd4ffa6183da015112c4776",
-      "hash": "a4b95892587acc7343d229bea5e6ec62",
+      "hash": "d26651e716a169a84d182ad6649294ab",
+      "salt": "d8027df4ef1a8fc02257f3127b1424b6",
       "expire": 4102415999
     },
     "admin": {
@@ -21,8 +21,8 @@
       "avatar": "https://avatars.githubusercontent.com/u/95485601",
       "egid": 0,
       "role": 0,
-      "salt": "327321455add8e0bb9277a6686490818",
-      "hash": "8c96bb72d949cb1592276aa8030660bf",
+      "hash": "9dfd93b76563086599ae8397c939d112",
+      "salt": "1a70a97b4dbef5480b10878bbba062e4",
       "expire": 4102415999
     }
   }
