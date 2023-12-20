@@ -20,7 +20,7 @@
             "arch": "amd64",
             "file": "WeChatWin.dll",
             "version": "3.9.8.25",
-            "origin": "undefined",
+            "origin": "a131a56a26992830c865443b2f21f108d157bb0ca1e42a5b2f8e0f23688241ca",
             "hashed": "5d30ea6ff2b56334cf29f2aa683d81a325e2151977f18723a8cbe175bb50a53f",
             "feature": [
                 {
