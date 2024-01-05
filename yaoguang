@@ -1,0 +1,14 @@
+{
+  "name": "YaoGuang Resource Lists",
+  "info": "本配置文件由脚本自动触发生成并由 GITHUB 托管, 仅保证最新版本可用",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "name": "windows",
+      "version": "1.0.1",
+      "hash": "undefined",
+      "request": true,
+      "gzip": false
+    }
+  ]
+}
