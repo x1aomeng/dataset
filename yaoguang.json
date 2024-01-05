@@ -5,6 +5,7 @@
   "path": "https://cdn.jsdelivr.net/gh/x1aomeng/dataset",
   "packages": [
     {
+      "id": "de18f3a0",
       "name": "windows",
       "version": "1.0.1",
       "hash": "undefined",
