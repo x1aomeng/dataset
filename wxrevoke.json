@@ -34,8 +34,8 @@
             "arch": "amd64",
             "file": "WeChatWin.dll",
             "version": "3.9.9.27",
-            "origin": "undefined",
-            "hashed": "undefined",
+            "origin": "59864d9f9c112e92ce7c3adb148cc01f82f22444698afd87d80fea62214d4014",
+            "hashed": "11ac8ee6eb5c56c50ea5cc8ba40fb886a1986715d813fafa4e279735d3cc1206",
             "feature": [
                 {
                     "name": "Skip Revoke",
