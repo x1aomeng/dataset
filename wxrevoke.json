@@ -43,6 +43,20 @@
                     "replace": "097400410FB70449"
                 }
             ]
+        },
+        {    
+            "arch": "amd64",
+            "file": "WeChatWin.dll",
+            "version": "3.9.9.43",
+            "origin": "undefined",
+            "hashed": "undefined",
+            "feature": [
+                {
+                    "name": "Skip Revoke",
+                    "target": "09741A410FB70449",
+                    "replace": "097400410FB70449"
+                }
+            ]
         }
     ]
 }
